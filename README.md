@@ -6,9 +6,7 @@
 
 ![Urban's GitHub stats](https://github-readme-stats.vercel.app/api?username=urbanykv&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urbanykv&layout=compact&langs_count=6&theme=tokyonight"/)
-
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
 
 ### Tecnologias que eu estou aprendendo.
 
