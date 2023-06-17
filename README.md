@@ -6,6 +6,10 @@
 
 ![Urban's GitHub stats](https://github-readme-stats.vercel.app/api?username=urbanykv&show_icons=true&theme=radical)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urbanykv&layout=compact&langs_count=6&theme=tokyonight"/)
+
+
+
 ### Tecnologias que eu estou aprendendo.
 
 <div style="display: flex"></br>
@@ -23,8 +27,7 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
 
-
-
+![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div><br><br>
 
