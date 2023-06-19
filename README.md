@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Matheus Urban. 👋
 <br>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-urban-19532a221/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/urbanykv/)
-
  <div>
    <a href="https://github.com/urbanykv">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=urbanykv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
