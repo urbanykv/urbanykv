@@ -7,7 +7,7 @@
 
 </div>
 
-### Tecnologias que eu estou aprendendo.
+### Tecnologias
 
 <div style="display: flex"></br>
 
@@ -24,6 +24,4 @@
 
 ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
-</div><br><br>
-
-Estou aprendendo a programar e a cada dia que passa fico mais apaixonado pelo mundo da programação.
+</div><br>
