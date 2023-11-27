@@ -11,8 +11,8 @@
 <br>
 <h3>Projetos Relevantes</h3>
 <div>
-    <a href="https://portfolio-matheusurban.vercel.app/"><img src="./badges/badge-portfolio.jpg" alt="Portfólio Matheus Urban" width="100"/></a>
-    <a href="https://jogo-detona-ralph-one.vercel.app/"><img src="" alt="Jogo Detona Ralph" /></a>
-    <a href="https://urban-ristorante.vercel.app/"><img src="" alt="Urban Ristorante" /></a>
-    <a href="https://urban-store-coral.vercel.app/"><img src="./badges/badge-urbanstore.jpg" alt="Urban Store" width="110" /></a>
+    <a href="https://portfolio-matheusurban.vercel.app/"><img src="./icons/portfolio.ico" alt="Portfólio Matheus Urban" width="100"/></a>
+    <a href="https://jogo-detona-ralph-one.vercel.app/"><img src="./icons/ralph.jpg" alt="Jogo Detona Ralph" /></a>
+    <a href="https://urban-ristorante.vercel.app/"><img src="./icons/ristorante.ico" alt="Urban Ristorante" /></a>
+    <a href="https://urban-store-coral.vercel.app/"><img src="./icons/urban-store.ico" width="110" /></a>
 </div>
