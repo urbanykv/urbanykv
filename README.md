@@ -6,7 +6,7 @@
 ```javascript
 const sobreMim = {
     nome:"Matheus Urban",
-    cursando: 'engenharia de software'
+    cursando: 'engenharia de software',
     linguagens: ['javascript', 'c#', 'sql'],
     interesses: ['front-end', 'back-end', 'cibersegurança'],
     desde: new Date('2023')
