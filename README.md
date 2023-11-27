@@ -1,8 +1,9 @@
-<h1>Olá, eu sou o Matheus Urban. ✌</h1>
-<a href="https://www.linkedin.com/in/urbanykv/"><img src="https://media.licdn.com/dms/image/D4D16AQEbQxhPTkpqqw/profile-displaybackgroundimage-shrink_350_1400/0/1695231198677?e=1706745600&v=beta&t=f2KHKYuPsUoFBKCmjSK53wljbo1zSxdp2pyQizPsnOk" alt="Capa Matheus Urban" /></a>
-<br>
+# Olá, eu sou o Matheus Urban. ✌
 
-<h3>Sobre Mim</h3>
+<a href="https://www.linkedin.com/in/urbanykv/"><img src="https://media.licdn.com/dms/image/D4D16AQEbQxhPTkpqqw/profile-displaybackgroundimage-shrink_350_1400/0/1695231198677?e=1706745600&v=beta&t=f2KHKYuPsUoFBKCmjSK53wljbo1zSxdp2pyQizPsnOk" alt="Capa Matheus Urban" /></a>
+
+
+### Sobre Mim
 ```javascript
 const sobreMim = {
     nome:"Matheus Urban",
@@ -12,9 +13,10 @@ const sobreMim = {
     desde: new Date('2023')
 }
 ```
-<br>
-<p>Estou sempre aprimorando meus conhecimentos e sempre em busca de ser melhor que o meu eu de ontem.<br>
-Meu objetivo é ser Desenvolvedor Full Stack.</p>
+
+Estou sempre aprimorando meus conhecimentos e sempre em busca de ser melhor que o meu eu de ontem.
+
+Meu objetivo é ser Desenvolvedor Full Stack.
 
 <div>
     <h3>Tecnologias que estou estudando</h3>
@@ -23,6 +25,7 @@ Meu objetivo é ser Desenvolvedor Full Stack.</p>
     <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
     <img src="https://skillicons.dev/icons?i=mysql" alt="mySQL" />
 </div>
+
 <div>
     <h3>Projetos Relevantes</h3>
     <ul>
