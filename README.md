@@ -8,6 +8,8 @@ const sobreMim = {
     nome:"Matheus Urban",
     cursando: 'engenharia de software',
     linguagens: ['javascript', 'c#', 'sql'],
+    frameworks: ['Git/Github', 'React.js'],
+    design: ['Adobe Photoshop'],
     interesses: ['front-end', 'back-end', 'cibersegurança'],
     desde: new Date('2023')
 }
