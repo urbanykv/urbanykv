@@ -14,8 +14,8 @@ const sobreMim = {
 }
 ```
 
-Estou sempre aprimorando meus conhecimentos e sempre em busca de ser melhor que o meu eu de ontem.
-
+Estou sempre aprimorando meus conhecimentos e
+sempre em busca de ser melhor que o meu eu de ontem.
 Meu objetivo é ser Desenvolvedor Full Stack.
 
 <div>
@@ -26,12 +26,10 @@ Meu objetivo é ser Desenvolvedor Full Stack.
     <img src="https://skillicons.dev/icons?i=mysql" alt="mySQL" />
 </div>
 
-<div>
-    <h3>Projetos Relevantes</h3>
-    <ul>
-        <li><a href="https://portfolio-matheusurban.vercel.app/">Portfolio</a></li>
-        <li><a href="https://urban-store-coral.vercel.app/">Urban Store</a></li>
-        <li><a href="https://jogo-detona-ralph-one.vercel.app/">Detona Ralph</a></li>
-        <li><a href="https://urban-ristorante.vercel.app/">Urban Ristorante</a></li>
-    </ul>
-</div>
+
+### Projetos Relevantes
+
+- [Portfolio](https://portfolio-matheusurban.vercel.app/)
+- [Urban Store](https://urban-store-coral.vercel.app/)
+- [Detona Ralph](https://jogo-detona-ralph-one.vercel.app/)
+- [Urban Ristorante](https://urban-ristorante.vercel.app/)
