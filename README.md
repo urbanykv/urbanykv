@@ -1,18 +1,21 @@
 <h1>Olá, eu sou o Matheus Urban. ✌</h1>
 <a href="https://www.linkedin.com/in/urbanykv/"><img src="https://media.licdn.com/dms/image/D4D16AQEbQxhPTkpqqw/profile-displaybackgroundimage-shrink_350_1400/0/1695231198677?e=1706745600&v=beta&t=f2KHKYuPsUoFBKCmjSK53wljbo1zSxdp2pyQizPsnOk" alt="Capa Matheus Urban" /></a>
 <br>
-<div>
-    <h3>Sobre Mim</h3>
-    <code> const sobreMim = {
-        nome:"Matheus Urban",
-        cursando: 'engenharia de software'
-        langs: ['javascript', 'c#', 'sql'],
-        interesses: ['front-end', 'back-end', 'cibersegurança'],
-        desde: new Date('2023')
-    }</code>
-    <p>Estou sempre aprimorando meus conhecimentos e sempre em busca de ser melhor que o meu eu de ontem.<br>
-    Meu objetivo é ser Desenvolvedor Full Stack.</p>
-</div>
+
+<h3>Sobre Mim</h3>
+```javascript
+const sobreMim = {
+    nome:"Matheus Urban",
+    cursando: 'engenharia de software'
+    langs: ['javascript', 'c#', 'sql'],
+    interesses: ['front-end', 'back-end', 'cibersegurança'],
+    desde: new Date('2023')
+}
+```
+<br>
+<p>Estou sempre aprimorando meus conhecimentos e sempre em busca de ser melhor que o meu eu de ontem.<br>
+Meu objetivo é ser Desenvolvedor Full Stack.</p>
+
 <div>
     <h3>Tecnologias que estou estudando</h3>
     <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
