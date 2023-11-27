@@ -7,15 +7,13 @@
     Estou sempre aprimorando meus conhecimentos e sempre em busca de ser melhor que o meu eu de ontem.<br>
     Meu objetivo é ser Desenvolvedor Full Stack.</p>
 </div>
-<br>
 <div>
-    <h3>Estudando</h3>
+    <h3>Tecnologias que estou estudando</h3>
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL" />
 </div>
-<br>
 <div>
     <h3>Projetos Relevantes</h3>
     <ul>
