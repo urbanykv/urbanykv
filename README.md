@@ -3,16 +3,22 @@
 <br>
 <div>
     <h3>Sobre Mim</h3>
-    <p>Olá, meu nome é Matheus Urban, tenho 21 anos, sou estudante de Engenharia de Software e sou Desenvolvedor Front-end.<br>
-    Estou sempre aprimorando meus conhecimentos e sempre em busca de ser melhor que o meu eu de ontem.<br>
+    <code> const sobreMim = {
+        nome:"Matheus Urban",
+        cursando: 'engenharia de software'
+        langs: ['javascript', 'c#', 'sql'],
+        interesses: ['front-end', 'back-end', 'cibersegurança'],
+        desde: new Date('2023')
+    }</code>
+    <p>Estou sempre aprimorando meus conhecimentos e sempre em busca de ser melhor que o meu eu de ontem.<br>
     Meu objetivo é ser Desenvolvedor Full Stack.</p>
 </div>
 <div>
     <h3>Tecnologias que estou estudando</h3>
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL" />
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mySQL" />
 </div>
 <div>
     <h3>Projetos Relevantes</h3>
