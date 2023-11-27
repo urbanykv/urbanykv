@@ -10,9 +10,17 @@
 </div>
 <br>
 <h3>Projetos Relevantes</h3>
-<ul>
-    <li><a href="https://portfolio-matheusurban.vercel.app/">Portfolio</a></li>
-    <li><a href="https://urban-store-coral.vercel.app/">Urban Store</a></li>
-    <li><a href="https://jogo-detona-ralph-one.vercel.app/">Detona Ralph</a></li>
-    <li><a href="https://urban-ristorante.vercel.app/">Urban Ristorante</a></li>
-</ul>
+<div>
+    <div>
+        <h3>Sobre Mim</h3>
+        <p>Olá, meu nome é Matheus Urban, tenho 21 anos, sou estudante de Engenharia de Software e sou Desenvolvedor Front-end.
+        Estou sempre aprimorando meus conhecimentos e sempre em busca de ser melhor que o meu eu de ontem.
+        Meu objetivo é ser Desenvolvedor Full Stack.</p>
+    </div>
+    <ul>
+        <li><a href="https://portfolio-matheusurban.vercel.app/">Portfolio</a></li>
+        <li><a href="https://urban-store-coral.vercel.app/">Urban Store</a></li>
+        <li><a href="https://jogo-detona-ralph-one.vercel.app/">Detona Ralph</a></li>
+        <li><a href="https://urban-ristorante.vercel.app/">Urban Ristorante</a></li>
+    </ul>
+</div>
