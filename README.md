@@ -4,19 +4,19 @@
 
 ### Sobre Mim
 ```javascript
-const sobreMim = {
+const sobre = {
     nome:"Matheus Urban",
     cursando: 'engenharia de software',
     linguagens: ['javascript', 'c#', 'sql'],
-    frameworks: ['git/github', 'react.js'],
+    frameworks: ['react.js'],
     design: ['adobe photoshop'],
     interesses: ['design' 'front-end', 'back-end', 'cibersegurança'],
     desde: new Date('2023')
 }
 ```
 
-Estou sempre aprimorando meus conhecimentos e
-sempre em busca de ser melhor que o meu eu de ontem.
+Estou sempre aprimorando meus conhecimentos e  
+sempre em busca de ser melhor que o meu eu de ontem.  
 Meu objetivo é ser Desenvolvedor Full Stack.
 
 ### Tecnologias que estou estudando
