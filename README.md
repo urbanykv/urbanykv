@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Urban. ✌
 
-[![Capa Matheus Urban](https://media.licdn.com/dms/image/D4D16AQEbQxhPTkpqqw/profile-displaybackgroundimage-shrink_350_1400/0/1695231198677?e=1706745600&v=beta&t=f2KHKYuPsUoFBKCmjSK53wljbo1zSxdp2pyQizPsnOk)](https://www.linkedin.com/in/urbanykv/)
+[![Capa Matheus Urban](https://media.licdn.com/dms/image/D4D16AQFMzXH2ovtgXg/profile-displaybackgroundimage-shrink_350_1400/0/1702493162920?e=1707955200&v=beta&t=p9oAAuOeUGq1Ats9Jk4DYHqc07lF-VH52Rqy7VjYZj4)](https://www.linkedin.com/in/urbanykv/)
 
 ### Sobre Mim
 ```javascript
