@@ -19,11 +19,12 @@ Estou sempre aprimorando meus conhecimentos e
 sempre em busca de ser melhor que o meu eu de ontem.  
 Meu objetivo é ser Desenvolvedor Full Stack.
 
-### Tecnologias
+### Tecnologias e Softwares
 
 ![JavaScript](https://skillicons.dev/icons?i=javascript) &nbsp;&nbsp;
 ![React.js](https://skillicons.dev/icons?i=react) &nbsp;&nbsp;
-![Styled Components](https://skillicons.dev/icons?i=photoshop) &nbsp;&nbsp;
+![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop) &nbsp;&nbsp;
+![Adobe Photoshop](https://skillicons.dev/icons?i=styled_components) &nbsp;&nbsp;
 
 ### Tecnologias que estou estudando
 
