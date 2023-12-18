@@ -24,7 +24,7 @@ Meu objetivo é ser Desenvolvedor Full Stack.
 ![JavaScript](https://skillicons.dev/icons?i=javascript) &nbsp;&nbsp;
 ![React.js](https://skillicons.dev/icons?i=react) &nbsp;&nbsp;
 ![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop) &nbsp;&nbsp;
-![Adobe Photoshop](https://skillicons.dev/icons?i=styled_components) &nbsp;&nbsp;
+![Adobe Photoshop](https://skillicons.dev/icons?i=styledcomponents) &nbsp;&nbsp;
 
 ### Tecnologias que estou estudando
 
