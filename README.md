@@ -21,9 +21,9 @@ Meu objetivo é ser Desenvolvedor Full Stack.
 
 ### Tecnologias que estou estudando
 
-![.NET](https://skillicons.dev/icons?i=dotnet) &nbsp;&nbsp;&nbsp;
-![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp;&nbsp;&nbsp;
-![Express.js](https://skillicons.dev/icons?i=express) &nbsp;&nbsp;&nbsp;
+![.NET](https://skillicons.dev/icons?i=dotnet) &nbsp;&nbsp;
+![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp;&nbsp;
+![Express.js](https://skillicons.dev/icons?i=express) &nbsp;&nbsp;
 ![mySQL](https://skillicons.dev/icons?i=mysql)
 
 ### Projetos Relevantes
