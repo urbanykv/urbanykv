@@ -7,7 +7,7 @@
 const sobre = {
     nome:"Matheus Urban",
     cursando: 'Engenharia de Software',
-    linguagens: ['Javascript', 'C#', 'SQL'],
+    linguagens: ['Javascript', 'typescript', 'C#', 'SQL'],
     frameworks_libs: ['React.js', 'Styled Components'],
     design: ['Adobe Photoshop'],
     interesses: ['Front-end', 'Back-end', 'Design'],
@@ -17,6 +17,7 @@ const sobre = {
 
 ### Tecnologias e Softwares
 
+![Javascript](https://skillicons.dev/icons?i=javascript) &nbsp;&nbsp;
 ![Typescript](https://skillicons.dev/icons?i=typescript) &nbsp;&nbsp;
 ![React.js](https://skillicons.dev/icons?i=react) &nbsp;&nbsp;
 ![Styled Components](https://skillicons.dev/icons?i=styledcomponents) &nbsp;&nbsp;
