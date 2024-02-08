@@ -20,14 +20,17 @@ const sobre = {
 ![JavaScript](https://skillicons.dev/icons?i=javascript) &nbsp;&nbsp;
 ![React.js](https://skillicons.dev/icons?i=react) &nbsp;&nbsp;
 ![Styled Components](https://skillicons.dev/icons?i=styledcomponents) &nbsp;&nbsp;
+![.NET](https://skillicons.dev/icons?i=dotnet) &nbsp;&nbsp;
+![SQL Server](https://skillicons.dev/icons?i=sqlserver) &nbsp;&nbsp;
 ![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop)
 
 ### Tecnologias que estou estudando
 
-![.NET](https://skillicons.dev/icons?i=dotnet) &nbsp;&nbsp;
 ![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp;&nbsp;
 ![Express.js](https://skillicons.dev/icons?i=express) &nbsp;&nbsp;
-![mySQL](https://skillicons.dev/icons?i=mysql)
+![Figma](https://skillicons.dev/icons?i=figma) &nbsp;&nbsp;
+![Illustrator](https://skillicons.dev/icons?i=illustrator) &nbsp;&nbsp;
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ### Projetos Relevantes
 
