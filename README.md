@@ -15,10 +15,6 @@ const sobre = {
 }
 ```
 
-Estou sempre aprimorando meus conhecimentos e  
-sempre em busca de ser melhor que o meu eu de ontem.  
-Meu objetivo é ser Desenvolvedor Full Stack.
-
 ### Tecnologias e Softwares
 
 ![JavaScript](https://skillicons.dev/icons?i=javascript) &nbsp;&nbsp;
