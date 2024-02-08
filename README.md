@@ -6,11 +6,11 @@
 ```javascript
 const sobre = {
     nome:"Matheus Urban",
-    cursando: 'engenharia de software',
-    linguagens: ['javascript', 'c#'],
-    frameworks_libs: ['react.js', 'styled components'],
-    design: ['adobe photoshop'],
-    interesses: ['design' 'front-end', 'back-end'],
+    cursando: 'Engenharia de Software',
+    linguagens: ['Javascript', 'C#', 'SQL'],
+    frameworks_libs: ['React.js', 'Styled Components'],
+    design: ['Adobe Photoshop'],
+    interesses: ['Front-end', 'Back-end', 'Design'],
     desde: new Date('2023')
 }
 ```
