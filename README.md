@@ -17,7 +17,7 @@ const sobre = {
 
 ### Tecnologias e Softwares
 
-![JavaScript](https://skillicons.dev/icons?i=javascript) &nbsp;&nbsp;
+![Typescript](https://skillicons.dev/icons?i=typescript) &nbsp;&nbsp;
 ![React.js](https://skillicons.dev/icons?i=react) &nbsp;&nbsp;
 ![Styled Components](https://skillicons.dev/icons?i=styledcomponents) &nbsp;&nbsp;
 ![.NET](https://skillicons.dev/icons?i=dotnet) &nbsp;&nbsp;
