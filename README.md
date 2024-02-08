@@ -21,7 +21,7 @@ const sobre = {
 ![React.js](https://skillicons.dev/icons?i=react) &nbsp;&nbsp;
 ![Styled Components](https://skillicons.dev/icons?i=styledcomponents) &nbsp;&nbsp;
 ![.NET](https://skillicons.dev/icons?i=dotnet) &nbsp;&nbsp;
-![SQL Server](https://skillicons.dev/icons?i=sqlserver) &nbsp;&nbsp;
+![SQL Server](https://skillicons.dev/icons?i=server) &nbsp;&nbsp;
 ![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop)
 
 ### Tecnologias que estou estudando
