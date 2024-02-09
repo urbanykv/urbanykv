@@ -26,7 +26,7 @@ Amo tecnologia e estou sempre em busca de desafios criativos.
 ![React.js](https://skillicons.dev/icons?i=react) &nbsp;&nbsp;
 ![Styled Components](https://skillicons.dev/icons?i=styledcomponents) &nbsp;&nbsp;
 ![.NET](https://skillicons.dev/icons?i=dotnet) &nbsp;&nbsp;
-![My SQL]([https://skillicons.dev/icons?i=mysql](https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png)) &nbsp;&nbsp;
+![My SQL](https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png) &nbsp;&nbsp;
 ![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop)
 
 ### Tecnologias que estou estudando
