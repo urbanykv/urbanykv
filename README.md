@@ -15,6 +15,8 @@ const sobre = {
 }
 ```
 
+Oi! Sou o Matheus Urban, desenvolvedor MES na ![Metalsa](https://www.linkedin.com/company/metalsacompany/) e voluntário como desenvolvedor front end na ![Developers](https://discord.gg/developers-202147515766800384). Amo tecnologia e estou sempre em busca de desafios criativos.
+
 ### Tecnologias e Softwares
 
 ![Javascript](https://skillicons.dev/icons?i=javascript) &nbsp;&nbsp;
