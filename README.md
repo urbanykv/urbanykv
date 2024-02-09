@@ -27,7 +27,8 @@ Amo tecnologia e estou sempre em busca de desafios criativos.
 ![Styled Components](https://skillicons.dev/icons?i=styledcomponents) &nbsp;&nbsp;
 ![.NET](https://skillicons.dev/icons?i=dotnet) &nbsp;&nbsp;
 ![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop) &nbsp;&nbsp;
-![My SQL](https://portfolio-matheusurban.vercel.app/assets/icons/sql-server.png)
+<img src="https://portfolio-matheusurban.vercel.app/assets/icons/sql-server.png" alt="SQL Server" width="48" height="48"/>
+
 
 ### Tecnologias que estou estudando
 
