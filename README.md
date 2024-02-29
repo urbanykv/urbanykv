@@ -10,7 +10,7 @@ const sobre = {
     linguagens: ['Javascript', 'Typescript', 'C#', 'SQL'],
     frameworks_libs: ['React.js', 'Styled Components'],
     design: ['Adobe Photoshop'],
-    interesses: ['Front-end', 'Back-end', 'Design'],
+    interesses: ['Front-end', 'Back-end', 'Design', 'Engenharia de Usabilidade'],
     desde: new Date('2023')
 }
 ```
