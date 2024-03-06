@@ -19,6 +19,8 @@ Oi! Sou o Matheus Urban, Desenvolvedor MES na [Metalsa](https://www.linkedin.com
 voluntário como Desenvolvedor front end na [Developers](https://discord.gg/developers-202147515766800384). \
 Amo tecnologia e estou sempre em busca de desafios criativos.
 
+Acesse meu GitHub principal clicando [aqui.](https://github.com/urbanykv)
+
 ### Tecnologias e Softwares
 
 ![Javascript](https://skillicons.dev/icons?i=javascript) &nbsp;&nbsp;
@@ -29,13 +31,12 @@ Amo tecnologia e estou sempre em busca de desafios criativos.
 ![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop) &nbsp;&nbsp;
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) &nbsp;&nbsp;
 <img src="https://portfolio-matheusurban.vercel.app/assets/icons/sql-server.png" alt="SQL Server" width="48" height="48"/>
-
-
-### Tecnologias que estou estudando
 ![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp;&nbsp;
 ![Express.js](https://skillicons.dev/icons?i=express) &nbsp;&nbsp;
+
+### Tecnologias que estou estudando
 ![Figma](https://skillicons.dev/icons?i=figma) &nbsp;&nbsp;
-![Illustrator](https://skillicons.dev/icons?i=illustrator) &nbsp;&nbsp;
+![Illustrator](https://skillicons.dev/icons?i=illustrator)
 
 
 ### Projetos Relevantes
