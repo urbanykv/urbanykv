@@ -1,7 +1,4 @@
 # Olá, eu sou o Matheus Urban. ✌
-
-[![Capa Matheus Urban](https://media.licdn.com/dms/image/D4D16AQEX3fokRNwUjg/profile-displaybackgroundimage-shrink_350_1400/0/1707420435814?e=1712793600&v=beta&t=VLUPhFtbu_pIk31OZXYAKbAM2QIOCzW2c5jcvsVN0bI)](https://www.linkedin.com/in/urbanykv/)
-
 ### Sobre Mim
 ```javascript
 const sobre = {
