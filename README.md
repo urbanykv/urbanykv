@@ -16,10 +16,7 @@ Oi! Sou o Matheus Urban, Desenvolvedor MES na [Metalsa](https://www.linkedin.com
 voluntário como Desenvolvedor front end na [Developers](https://discord.gg/developers-202147515766800384). \
 Amo tecnologia e estou sempre em busca de desafios criativos.
 
-Acesse meu GitHub principal clicando [aqui.](https://github.com/urbanykv)
-
 ### Tecnologias e Softwares
-
 ![Javascript](https://skillicons.dev/icons?i=javascript) &nbsp;&nbsp;
 ![Typescript](https://skillicons.dev/icons?i=typescript) &nbsp;&nbsp;
 ![React.js](https://skillicons.dev/icons?i=react) &nbsp;&nbsp;
@@ -35,10 +32,4 @@ Acesse meu GitHub principal clicando [aqui.](https://github.com/urbanykv)
 ![Figma](https://skillicons.dev/icons?i=figma) &nbsp;&nbsp;
 ![Illustrator](https://skillicons.dev/icons?i=illustrator)
 
-
-### Projetos Relevantes
-
 - [Portfolio](https://portfolio-matheusurban.vercel.app/)
-- [Urban Store](https://urban-store-coral.vercel.app/)
-- [Detona Ralph](https://jogo-detona-ralph-one.vercel.app/)
-- [Urban Ristorante](https://urban-ristorante.vercel.app/)
