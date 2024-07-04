@@ -16,14 +16,14 @@ Oi! Sou o Matheus Urban, Desenvolvedor MES na [Metalsa](https://www.linkedin.com
 Amo tecnologia e estou sempre em busca de desafios criativos.
 
 ### Tecnologias e Softwares
+![.NET](https://skillicons.dev/icons?i=dotnet) &nbsp;&nbsp;
+![Oracle](https://skillicons.dev/icons?i=oracle) &nbsp;&nbsp;
 ![Javascript](https://skillicons.dev/icons?i=javascript) &nbsp;&nbsp;
 ![Typescript](https://skillicons.dev/icons?i=typescript) &nbsp;&nbsp;
 ![React.js](https://skillicons.dev/icons?i=react) &nbsp;&nbsp;
 ![Styled Components](https://skillicons.dev/icons?i=styledcomponents) &nbsp;&nbsp;
-![.NET](https://skillicons.dev/icons?i=dotnet) &nbsp;&nbsp;
 ![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop) &nbsp;&nbsp;
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) &nbsp;&nbsp;
-<img src="https://portfolio-matheusurban.vercel.app/assets/icons/sql-server.png" alt="SQL Server" width="48" height="48"/>
 ![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp;&nbsp;
 ![Express.js](https://skillicons.dev/icons?i=express) &nbsp;&nbsp;
 
