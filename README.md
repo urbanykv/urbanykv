@@ -17,8 +17,6 @@ Amo tecnologia e estou sempre em busca de desafios criativos.
 
 ### Tecnologias e Softwares
 ![.NET](https://skillicons.dev/icons?i=dotnet) &nbsp;&nbsp;
-![Oracle](https://skillicons.dev/icons?i=oracle) &nbsp;&nbsp;
-![Javascript](https://skillicons.dev/icons?i=javascript) &nbsp;&nbsp;
 ![Typescript](https://skillicons.dev/icons?i=typescript) &nbsp;&nbsp;
 ![React.js](https://skillicons.dev/icons?i=react) &nbsp;&nbsp;
 ![Styled Components](https://skillicons.dev/icons?i=styledcomponents) &nbsp;&nbsp;
@@ -29,6 +27,5 @@ Amo tecnologia e estou sempre em busca de desafios criativos.
 
 ### Tecnologias que estou estudando
 ![Figma](https://skillicons.dev/icons?i=figma) &nbsp;&nbsp;
-![Illustrator](https://skillicons.dev/icons?i=illustrator)
 
 - [Portfolio](https://portfolio-matheusurban.vercel.app/)
