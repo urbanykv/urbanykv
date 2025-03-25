@@ -4,7 +4,7 @@
 const about = {
     name: "Matheus Urban",
     actual_job: 'MES Developer at Metalsa',
-    studyng: 'Engenharia de Software',
+    studyng: 'Software Engineering',
     languages: ['Javascript', 'Typescript', 'C#', 'SQL', 'PL/SQL'],
     frameworks_libs: ['React.js', 'React Native', 'Styled Components', 'Blazor', '.NET MAUI'],
     design: ['Adobe Photoshop', 'Figma'],
