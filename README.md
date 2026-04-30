@@ -18,7 +18,7 @@ Já atuei no desenvolvimento e manutenção de sistemas utilizados por grandes c
 * **Backend:** C#, .NET, ASP.NET Core, Web APIs
 * **Banco de dados:** SQL Server, Oracle, PostgreSQL
 * **Frontend:** React, JavaScript, TypeScript
-* **Outros:** Azure DevOps, Git, Docker (básico), Linux (uso prático via SSH)
+* **Outros:** Azure DevOps, Git, Docker (básico), Linux
 
 ---
 
