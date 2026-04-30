@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor .NET focado em backend e sistemas corporativos
 🏭 Experiência com sistemas industriais (MES), automação e APIs
-📍 Brasil
+📍 Osasco, SP
 
 ---
 
@@ -33,13 +33,3 @@ Atualmente busco oportunidades como Desenvolvedor .NET (Júnior / Pleno), onde e
 
 * 💼 LinkedIn: https://linkedin.com/in/urbanykv/
 * 📧 Email: [matheusurban19@gmail.com](mailto:matheusurban19@gmail.com)
-
----
-
-## ⚡ Curiosidades
-
-* Tenho interesse em sistemas industriais e automação
-* Gosto de entender como sistemas funcionam na prática (não só teoria)
-* Costumo testar coisas em ambiente Linux via SSH (home lab)
-
----
