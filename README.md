@@ -22,12 +22,6 @@ Já atuei no desenvolvimento e manutenção de sistemas utilizados por grandes c
 
 ---
 
-## 📈 O que estou buscando
-
-Atualmente busco oportunidades como Desenvolvedor .NET (Júnior / Pleno), onde eu possa contribuir com desenvolvimento backend, arquitetura de sistemas e soluções escaláveis.
-
----
-
 ## 📫 Contato
 
 * 💼 LinkedIn: https://linkedin.com/in/urbanykv/
