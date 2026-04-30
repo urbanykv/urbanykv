@@ -2,7 +2,6 @@
 
 💻 Desenvolvedor .NET focado em backend e sistemas corporativos
 🏭 Experiência com sistemas industriais (MES), automação e APIs
-📍 Osasco, SP
 
 ---
 
