@@ -15,10 +15,10 @@ Já atuei no desenvolvimento e manutenção de sistemas utilizados por grandes c
 
 ## 🧠 Stack principal
 
-* **Backend:** C#, .NET, ASP.NET Core, Web APIs
-* **Banco de dados:** SQL Server, Oracle, PostgreSQL
-* **Frontend:** React, JavaScript, TypeScript
-* **Outros:** Azure DevOps, Git, Docker (básico), Linux
+* **Backend:** C#, .NET, ASP.NET Core, Web APIs, Express.js
+* **Banco de dados:** SQL Server, Oracle, PostgreSQL, MongoDB
+* **Frontend:** React, JavaScript, TypeScript, HandleBars
+* **Outros:** Azure DevOps, Git, Docker, Linux
 
 ---
 
